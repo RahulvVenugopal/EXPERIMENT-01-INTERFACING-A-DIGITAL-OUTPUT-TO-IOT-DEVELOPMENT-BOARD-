@@ -103,6 +103,8 @@ while (1)
 
 
 ## OUTPUT  :
+![exp1](https://github.com/user-attachments/assets/2b8ed2f6-ab7e-4181-9c27-416c0ac7a18d)
+![exp1-1](https://github.com/user-attachments/assets/84240c92-5efd-4c91-8434-3b10dc13e7c6)
 
  
  
